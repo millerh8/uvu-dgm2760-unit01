@@ -4,3 +4,8 @@ header {
     background-image: url("../images/b&bHeader.jpeg");
     height: 386px;
 }
+
+main, footer {
+    max-width: 960px;
+    margin: 0 auto;
+}
