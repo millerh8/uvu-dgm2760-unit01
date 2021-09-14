@@ -9,3 +9,12 @@ main, footer {
     max-width: 960px;
     margin: 0 auto;
 }
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p, li {
+    font-family: 'Montserrat', sans-serif;
+}
+
