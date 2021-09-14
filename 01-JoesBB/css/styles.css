@@ -44,7 +44,8 @@ p, li {
 }
 
 #company {
-    padding: 290px 0px 0px 15px;
+    padding: 280px 0px 0px 15px;
+    font-size: 36px;
 }
 
 #slogan {
