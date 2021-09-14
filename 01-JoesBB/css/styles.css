@@ -56,5 +56,5 @@ p, li {
 }
 
 li {
-    list-style: url();
+    list-style: square;
 }
