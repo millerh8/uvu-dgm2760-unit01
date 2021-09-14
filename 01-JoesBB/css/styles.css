@@ -52,7 +52,11 @@ p, li {
     padding-left: 15px;
 }
 
-.text-shadow h1 h2{
+.text-shadow h1 {
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.text-shadow h2 {
     text-shadow: 2px 2px 2px #000000;
 }
 
